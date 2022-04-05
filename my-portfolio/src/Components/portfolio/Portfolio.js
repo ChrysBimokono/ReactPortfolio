@@ -19,7 +19,7 @@ function Portfolio() {
          </div>
          <h3> Space Travel Site </h3>
          <div className='portfolio_item-cta'>
-            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
             <a href='https://dribbble.com/alien_pixels' className='btn btn-primary' target={'_blank'}>Live Demo</a>
          </div>
        </article>
@@ -30,7 +30,7 @@ function Portfolio() {
          </div>
          <h3> E-commerce Product page </h3>
          <div className='portfolio_item-cta'>
-            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
             <a href='https://dribbble.com/alien_pixels' className='btn btn-primary' target={'_blank'}>Live Demo</a>
          </div>
        </article>
@@ -41,7 +41,7 @@ function Portfolio() {
          </div>
          <h3> IT African School </h3>
          <div className='portfolio_item-cta'>
-            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
             <a href='https://dribbble.com/alien_pixels' className='btn btn-primary' target={'_blank'}>Live Demo</a>
          </div>
        </article>
@@ -51,7 +51,7 @@ function Portfolio() {
          </div>
          <h3> My-portfolio </h3>
          <div className='portfolio_item-cta'>
-            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
             <a href='https://dribbble.com/alien_pixels' className='btn btn-primary' target={'_blank'}>Live Demo</a>
          </div>
        </article>

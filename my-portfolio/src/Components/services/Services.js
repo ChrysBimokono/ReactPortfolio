@@ -16,19 +16,19 @@ function Services() {
              <ul className='service_list'>
                <li>
                  <BiCheck className='service_list-icon' />
-                 <p> Lorem, ipsum dolor sit amet consectetreur elit.</p>
+                 <p> User Research & Analysis</p>
                </li>
                <li>
                  <BiCheck className='service_list-icon' />
-                 <p> Lorem, ipsum dolor sit amet consectetreur elit.</p>
+                 <p> Mobile First and Responsive Design</p>
                </li>
                <li>
                  <BiCheck className='service_list-icon' />
-                 <p> Lorem, ipsum dolor sit amet consectetreur elit.</p>
+                 <p> Design Thinking</p>
                </li>
                <li>
                  <BiCheck className='service_list-icon' />
-                 <p> Lorem, ipsum dolor sit amet consectetreur elit.</p>
+                 <p>User Testing </p>
                </li>
              </ul>
            </article>
@@ -45,7 +45,7 @@ function Services() {
                </li>
                <li>
                  <BiCheck className='service_list-icon' />
-                 <p> App building</p>
+                 <p> Web Application</p>
                </li>
                <li>
                  <BiCheck className='service_list-icon' />
