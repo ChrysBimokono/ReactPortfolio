@@ -32,7 +32,7 @@ const About = () => {
              <article className="about_card">
                <AiFillFolder className="about_icon" />
                <h5>Experience</h5>
-               <small>80+ completed projects</small>
+               <small>20+ completed projects</small>
              </article>
              </div>
              <p> My name is Chrys, a Former Petroleum Engineer who has always been passionate about web Development. My expertise ranges from E-commerce development to Data analyst.My mission is to help business reach their dream of having a successful website. For that, i do not only focus on completing a job but also providing valuable insight and suggestions for better website visibility,traffic resulting to more sales.</p>
