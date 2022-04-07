@@ -5,7 +5,7 @@ import IMG2 from '../../assets/project2.jpeg'
 import IMG3 from '../../assets/project3.jpeg'
 import IMG4 from '../../assets/project4.jpeg'
 import IMG5 from '../../assets/project5.jpeg'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/project6.jpeg'
 function Portfolio() {
   return (
     <section id='portfolio'>
@@ -64,6 +64,17 @@ function Portfolio() {
          <div className='portfolio_item-cta'>
             <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
             <a href='https://www.loom.com/share/07296574d92b43d28593328eedf7c311' className='btn btn-primary' target={'_blank'}>Live Demo</a>
+         </div>
+       </article>
+
+       <article className='portfolio_item'>
+         <div className='portfolio_item-image'>
+           <img src={IMG6} alt="" />
+         </div>
+         <h3> My portfolio </h3>
+         <div className='portfolio_item-cta'>
+            <a href='https://github.com/ChrysBimokono?tab=repositories' className='btn '>Github</a>
+            <a href='https://www.loom.com/share/a2de5c4b746f44e6b9d3d90c98ca340d' className='btn btn-primary' target={'_blank'}>Live Demo</a>
          </div>
        </article>
      </div>
